@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html lang="en">
-<script>
-    setTimeout(() => {
-        window.location.href = 'https://discord.gg/zkehSGwr7y'
-    }, 750);
-
-</script>
-</html>
